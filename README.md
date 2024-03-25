@@ -1,2 +1,2 @@
 # nvstly-site
- clone of nvstly
+Using this project to try and make a better version of the nvstly site.
